@@ -1,6 +1,6 @@
 # MAST30034 Project 1 README.md
-- Name: Test Student
-- Student ID: 0000000
+- Name: Patrick Lourenz
+- Student ID: 154740
 
 ## Student Instructions
 You **must** write up `README.md` for this repository to be eligable for readability marks.
