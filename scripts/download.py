@@ -13,7 +13,7 @@ for target_dir in ('tlc_data', 'other_data'): # taxi_zones should already exist
         os.makedirs(output_relative_dir + target_dir)
         
 YEARS = ['2021', '2022']
-MONTHS = range(4, 13)
+MONTHS = range(11, 13)
 
 # this is the URL template as of 07/2022
 URL_TEMPLATE = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_"
