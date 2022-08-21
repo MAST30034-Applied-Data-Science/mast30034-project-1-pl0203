@@ -37,7 +37,8 @@ for year in YEARS:
         urlretrieve(url, output_dir) 
 
         print(f"Completed year {year} - month {month}")
-    
+
+# Test data download
 # download taxi test data
 print(f"Begin downloading yellow taxi trip data year {year} - month {month}")
 
