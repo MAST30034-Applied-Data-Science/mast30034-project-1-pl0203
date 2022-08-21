@@ -2,7 +2,7 @@
 - Name: Patrick Lourenz
 - Student ID: 147440
 
-**Research Goal:** Demand Estimation for Trips from New York Airports
+**Research Goal:** Demand Estimation for Yellow Taxi Trips from New York JFK Airport
 
 **Timeline:** The timeline for the research area is 2018 - 2019.
 
